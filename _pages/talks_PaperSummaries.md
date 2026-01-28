@@ -6,6 +6,25 @@ description: Here you can find video recordings summarizing a few of my main pap
 nav: false
 nav_order: 3
 ---
+<h3>The Study of Dexterous Hand Manipulation: A Synergy-Based Complexity Index</h3>
+[[HTML](https://ieeexplore.ieee.org/document/10844894)] [<a href="../assets/pdf/The_Study_of_Dexterous_Hand_Manipulation_A_Synergy-Based_Complexity_Index.pdf" target="_blank" rel="noopener noreferrer">PDF</a>]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nPK-rqbUegc?si=W_a3NIZPgivWNfkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+Abstract: In this work we tackle the question of how to analyze and objectively quantify the complexity of a manipulation task. The study investigates the kinematic behavior of the hand joints in three different manipulation tasks of growing complexity: reaching-to-grasp, tool use and piano playing. The collected data were processed to extract the kinematic synergies of the hand by means of singular value decomposition. A novel, unbiased metric to determine hand manipulation complexity was based on the cumulative variance accounted for. This Variance-Accounted-For Complexity Index (VAF-CI) reliably distinguished between different manipulation tasks. Moreover, an unsupervised learning method (k-means clustering) was able to use the index to accurately identify the 3 distinct manipulation tasks. These results may be leveraged to improve the control of biomimetic dexterous robots during manipulation tasks.
+
+<hr> <!-- Add a horizontal rule to separate the posts -->
+
+<h3>Kinematic hand synergies differ between reach-and-grasp and functional object manipulation</h3>
+[[HTML](https://journals.physiology.org/doi/full/10.1152/jn.00101.2024)] [<a href="../assets/pdf/west-hogan-2025-kinematic-hand-synergies-differ-between-reach-and-grasp-and-functional-object-manipulation.pdf" target="_blank" rel="noopener noreferrer">PDF</a>]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P-LnOWyzrh4?si=sUjRQXn8ZaRSAln8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+Abstract: Humans possess a unique ability to manipulate tools to help us navigate the world around us. This ability is facilitated by the dexterity of our hands. However, millions lose this capability annually due to conditions like limb amputation or cerebral vascular accident (i.e., stroke). This great loss of human hand function has led to increased study of human hand action. Although previous research focused on coordinated hand motion, known as synergies, during reaching and grasping, manipulation of complex objects remains understudied. Specifically, we aimed to test two hypotheses: 1) the number of synergies underlying manipulation is the same as those underlying reach-and-grasp, and 2) the identity of synergies underlying manipulation is different from those underlying reach-and-grasp. To do so, we measured human hand motion during two experiments: 1) during reach and grasp of a tool or object commonly used in wire harness installation and 2) during manipulation of those objects and tools to install a wire harness on a mock electrical cabinet. Results showed that manipulation generally required more synergies than grasp. Comparison between reach-and-grasp and manipulation revealed a decrease in synergy similarity with synergy-order. Considering that higher-order synergies become significant during manipulation, it is important that we investigate these differences; this study serves as a point of entry to doing so. If we want our prosthetic and rehabilitative devices to restore hand function to those who have lost it, we must study hand function, specifically manipulation, and not just grasping.
+
+New & Noteworthy: This study uncovers new insights into kinematic synergies during functional human hand manipulation of objects and tools, through the study of wire harness installation. It emphasizes the nuanced distinctions between functional hand manipulation and simple grasping, revealing that manipulation tasks require a greater number and distinct subset of hand synergies compared with simple grasp actions. This research marks a significant step toward appreciating the intricacies of hand coordination in complex tasks beyond grasping.
+
+<hr> <!-- Add a horizontal rule to separate the posts -->
 
 <h3>The Study of Complex Manipulation via Kinematic Hand Synergies: The Effects of Data Pre-Processing</h3>
 [[HTML](https://ieeexplore.ieee.org/document/10304710)] [<a href="../assets/pdf/The_Study_of_Complex_Manipulation_via_Kinematic_Hand_Synergies_The_Effects_of_Data_Pre-Processing.pdf" target="_blank" rel="noopener noreferrer">PDF</a>]
