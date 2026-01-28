@@ -7,6 +7,19 @@ nav: false
 nav_order: 2
 ---
 
+<h3>How We See, How We Feel: Exploring Human Perception</h3>
+This talk was presented as part of the virtual seminar series for Georgia Tech’s Online Master of Science in Computer Science (OMSCS) program on September 18th, 2025.
+
+In this talk, I walk through my postdoc research on how we extract and integrate dynamics from what we see and feel, and how those insights can make rehabilitation and healthcare robotics more effective. Specifically, I focus on two recent studies:
+- Visual Perception of Damping — how people infer limb dynamics like stiffness and damping from motion alone, and how targeted coaching can enhance perceptual accuracy.
+- Cross-Modal Matching for Rehabilitation — streamlined methods to align visual and haptic feedback to ensure perceptual equity, making rehabilitation technologies more effective and efficient.
+
+Together, these projects reveal how we translate sight and touch into actionable understanding—and how that understanding can drive better healthcare technology.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m1Df850YnZs?si=t_GIyiANTHsGyBn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<hr> <!-- Add a horizontal rule to separate the posts -->
+
 <h3>Exploring Human Performance: The Importance of Studying our Limitations</h3>
 A research talk to given to the Neuromuscular Biomechanics Lab led by Professor Scott Delp at Stanford University on May 10th, 2023.
 
