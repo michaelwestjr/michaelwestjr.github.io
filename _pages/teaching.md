@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: This page is currently under construction. Please check back soon!
-nav: true
+nav: false
 nav_order: 5
 ---
 
