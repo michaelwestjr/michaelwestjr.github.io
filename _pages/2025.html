@@ -1,0 +1,28 @@
+---
+layout: page
+permalink: /news/2025/
+title: 2025 news
+---
+
+<nav style="margin-bottom: 1rem;">
+  <a href="{{ '/news/' | relative_url }}">latest</a> ·
+  <a href="{{ '/news/2024/' | relative_url }}">2024 →</a>
+</nav>
+
+<hr>
+
+{% assign sorted_news = site.news | sort: "date" | reverse %}
+{% for news in sorted_news %}
+  {% assign y = news.date | date: "%Y" %}
+  {% if y == "2025" %}
+    <h2>{{ news.title }}</h2>
+    <p><em>{{ news.date | date: "%B %d, %Y" }}</em></p>
+    {{ news.content }}
+    <hr>
+  {% endif %}
+{% endfor %}
+
+<nav style="margin-top: 1.5rem;">
+  <a href="{{ '/news/' | relative_url }}">latest</a> ·
+  <a href="{{ '/news/2024/' | relative_url }}">2024 →</a>
+</nav>
