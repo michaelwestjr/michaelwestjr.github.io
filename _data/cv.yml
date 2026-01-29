@@ -24,7 +24,7 @@
       institution: Yale University, New Haven, Connecticut
       year: 2014 - 2018
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
     - title: Postdoctoral Research Fellow
@@ -56,18 +56,48 @@
       institution: Yale Biomechanics & Control Lab, Yale University
       year: 2016 - 2017
       description:
-        - Designed & built a 125-part saw guide to improve sternotomies & decrease complications stemming from sternal non-union.
+        - Designed & conducted an experiment to validate a geometric theory that estimates limb impedance using joint surface features.
 
     - title: Design Engineering Student
       institution: Medical Device Design & Innovation, Yale University
       year: 2016
       description:
+        - Designed & built a 125-part saw guide to improve sternotomies & decrease complications stemming from sternal non-union.
 
     - title: Undergraduate Research Assistant
       institution: Social Robotics Laboratory Lab, Yale University
       year: 2017 - 2018
       description:
-        - Designed & built the interior & exterior components of a social robot`s articulating face to improve infant-robot interaction.
+        - Designed & built the interior & exterior components of a social robot’s articulating face to improve infant-robot interaction.
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Co-Instructor, 530.343 Design and Analysis of Dynamical Systems
+      institution: Johns Hopkins University, Department of Mechanical Engineering
+      year: Spring 2025
+      description:
+        - Independently developed and delivered a series of structured lectures as part of a required undergraduate course, creating concept-driven lessons that complemented the broader instructional plan.
+        - Collaborated with the lead instructor to shape the course’s direction and learning outcomes; co-developed assessments including quizzes, problem sets, and exams aligned with course objectives.
+        - Taught core topics such as modeling and analysis of damped and undamped, forced and free vibrations in single and multi-degree-of-freedom linear dynamical systems, as well as introductory concepts in system stability and control.
+    
+    - title: Teaching Assistant, 2.183J/4 Biomechanics & Neural Control of Movement
+      institution: Massachusetts Institute of Technology, Department of Mechanical Engineering
+      year: Spring 2021
+      description:
+        - Assisted students in understanding homework & lecture material via weekly office hours.
+        - Helped organize the course & develop lessons based on the courses teaching topics.
+        - Orchestrated a course designed for upper-level undergraduate students and graduate students. It was comprised of 7 undergraduate & 15 graduate students.
+        - Presented students with a quantitative description of how biomechanical & neural factors interact in human sensory-motor behavior. Topics included a review of relevant neural, muscular & skeletal physiology, neural feedback & "equilibrium-point" theories, co-contraction strategies, impedance control, kinematic redundancy, optimization, intermittency, contact tasks & tool-use.
+
+    - title: Teaching Assistant, 2.151 Advanced System Dynamics & Control
+      institution: Massachusetts Institute of Technology, Department of Mechanical Engineering
+      year: Fall 2020
+      description:
+        - Independently led students in weekly problem-solving based lectures.
+        - Helped organize the course & develop lessons based on the courses teaching topics.
+        - Support a course designed for graduate students. It was comprised of 30 graduate students.
+        - Educated topics including analytical descriptions of state-determined dynamic physical systems, time & frequency domain representations, system characteristics, & modification of system characteristics using feedback.
 
 - title: Honors and Awards
   type: time_table
