@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /InvitedTalks/
-title: Invited Talks
+permalink: /InvitedResearchTalks/
+title: Invited Talks - Research
 description: Here you can find some of my recorded research presentations.
 nav: false
 nav_order: 2

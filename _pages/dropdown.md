@@ -8,9 +8,12 @@ children:
     - title: PhD Thesis Defense
       permalink: /PhDThesisDefense/
     - title: divider
-    - title: Invited Talks
-      permalink: /InvitedTalks/
-    - title: divider
     - title: Paper Summaries
       permalink: /PaperSummaries/
+    - title: divider
+    - title: Invited Talks - Research
+      permalink: /InvitedResearchTalks/
+    - title: divider
+    - title: Invited Talks - Professional Development
+      permalink: /InvitedProfessionalDevelopmentTalks/
 ---
