@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /InvitedProfessionalDevelopmentTalks/
-title: Invited Talks - Professional Development
+title: invited professional development talks
 description: Here you can find some of my presentations providing various professional development advice.
 nav: false
 nav_order: 2

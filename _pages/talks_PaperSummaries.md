@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /PaperSummaries/
-title: Paper Summaries
+title: paper video summaries
 description: Here you can find video recordings summarizing a few of my main papers.
 nav: false
 nav_order: 3

@@ -5,15 +5,15 @@ nav: true
 nav_order: 2
 dropdown: true
 children: 
-    - title: PhD Thesis Defense
+    - title: PhD thesis defense
       permalink: /PhDThesisDefense/
     - title: divider
-    - title: Paper Summaries
+    - title: paper video summaries
       permalink: /PaperSummaries/
     - title: divider
-    - title: Invited Talks - Research
+    - title: invited research talks
       permalink: /InvitedResearchTalks/
     - title: divider
-    - title: Invited Talks - Professional Development
+    - title: invited professional development talks
       permalink: /InvitedProfessionalDevelopmentTalks/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /PhDThesisDefense/
-title: PhD Thesis Defense
+title: PhD thesis defense
 description: On April 19, 2024, Michael West Jr. successfully defended his PhD thesis earning him a doctorate in Mechanical Engineering at the Massachusetts Institute of Technology.
 nav: false
 nav_order: 1

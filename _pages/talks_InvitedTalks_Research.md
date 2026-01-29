@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /InvitedResearchTalks/
-title: Invited Talks - Research
+title: invited research talks
 description: Here you can find some of my recorded research presentations.
 nav: false
 nav_order: 2
