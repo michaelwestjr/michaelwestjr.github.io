@@ -1,7 +1,7 @@
 - title: Dr. Michael West Jr - Provost's Postdoctoral Fellow at Johns Hopkins University
   type: list
   contents:
-  - "Dr. West’s research studies fundamentals of upper-limb human motor control for leverage in robotic devices including rehabilitation robotics, collaborative robots, prosthetics, and dexterous robots. His innovative approaches to analyzing human motor control have yielded valuable insights into motor learning and perception, contributing to advancements in the field."
+  - "Dr. West's research, rooted in control theory, advances robotic technologies such as rehabilitation robotics, collaborative robots, prosthetics, and dexterous robots by investigating human motor control, learning, and perception. Combining expertise in controls, robotics, biomechanics, and neuroscience, I develop simple, descriptive motor control models that offer immediate and easily interpretable insight. Introducing novel analysis methods for human motor control and leveraging established approaches on new experimental paradigms, my work consistently uncovers fresh insights on human motor control, learning, and perception."
 
 - title: Education
   type: time_table
@@ -31,8 +31,10 @@
       institution: Haptics and Medical Robotics (HAMR) Laboratory, Johns Hopkins University
       year: 2024 - 2027
       description:
-        - Conducting cutting-edge research on haptic feedback and its role in robotic manipulation tasks to advance technologies in rehabilitation, prosthetics, and surgical robotics. 
-        - Mentoring and advising PhD and master’s students on research methodologies, experimental design, and career development. 
+        - Developing and evaluating rehabilitation strategies to mitigate sensorimotor impairments in wrist and hand function.
+        - Investigating the development of surgeon visual–haptic acuity during robot-assisted minimally invasive surgery, with implications for training and robotic system design.
+        - Examining how the nervous system coordinates, or dissociates, motor control and motor prediction during sensorimotor learning.
+        - Mentoring and advising PhD, master’s, undergraduate, and high school students on research methodologies, experimental design, and career development.
 
     - title: Graduate Researcher
       institution: Newman Laboratory for Biomechanics & Human Rehabilitation, MIT
@@ -70,6 +72,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - Johns Hopkins University Provost’s Postdoctoral Fellowship Program (PPF) (<b>$97,475</b>)
     - year: 2024
       items: 
         - Johns Hopkins University Provost’s Postdoctoral Fellowship Program (PPF) (<b>$100,880</b>)
