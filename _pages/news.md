@@ -11,6 +11,7 @@ nav_order: 3
 
 <p>
   <strong>browse by year:</strong>
+  <a href="{{ '/news/2026/' | relative_url }}">2026</a> ·
   <a href="{{ '/news/2025/' | relative_url }}">2025</a> ·
   <a href="{{ '/news/2024/' | relative_url }}">2024</a> ·
   <a href="{{ '/news/2023/' | relative_url }}">2023</a> ·
@@ -32,5 +33,5 @@ nav_order: 3
 {% endfor %}
 
 <p>
-  <a href="{{ '/news/2025/' | relative_url }}">See all 2025 news →</a>
+  <a href="{{ '/news/2026/' | relative_url }}">See all 2026 news →</a>
 </p>
