@@ -6,6 +6,16 @@ description: Here you can find video recordings summarizing a few of my main pap
 nav: false
 nav_order: 3
 ---
+
+<h3>Cross-Modal Matching Is Not Bidirectional: Implications for Human Multisensory Feedback</h3>
+[[HTML](https://ieeexplore.ieee.org/abstract/document/11681322)] [<a href="../assets/pdf/Cross-Modal_Matching_Is_Not_Bidirectional_Implications_for_Human_Multisensory_Feedback.pdf" target="_blank" rel="noopener noreferrer">PDF</a>]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ql9LUFHhzI4?si=-4MKfsbOHc6VzWem" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Abstract: Cross-modal matching (CMM) is a calibration technique used in multi-modal robotic systems to align the perceptual scales of different sensory feedback channels, such as vision and haptics. In a typical CMM procedure, mappings are learned in both reciprocal directions (e.g., from feedback channel A→B and from B→A). Prior work has reported directional asymmetries in bidirectional matching tasks, but the implications of these asymmetries for calibration remain poorly understood. Here, we examine bidirectionality in two robotics-relevant datasets: a cross-sensory condition involving visual-vibrotactile feedback and a within-sensory, collocated haptic condition involving pressure-vibrotactile feedback. At the individual-subject level, mappings learned in one direction generally failed to describe behavior in the reverse direction, indicating substantial departures from bidirectional consistency. Using parameter-mismatch and cycle-consistency analyses, we demonstrate that these directional asymmetries manifest primarily as systematic perceptual biases rather than intensitydependent gain distortions or higher-order nonlinearities. As a result, CMM does not simply equate feedback channels but instead introduces direction-dependent perceptual transformations between modalities. Consequently, the choice of mapping direction is not neutral, as it determines how perceptual salience is redistributed across feedback channels. These findings have implications for the design of human-robot interfaces and rehabilitation systems, where calibration choices can influence perception, learning, and sensory reweighting. More broadly, our results reframe CMM not as a neutral calibration procedure, but as a directional design decision that fundamentally shapes multisensory interaction in robotic systems.
+
+<hr> <!-- Add a horizontal rule to separate the posts -->
+
 <h3>The Study of Dexterous Hand Manipulation: A Synergy-Based Complexity Index</h3>
 [[HTML](https://ieeexplore.ieee.org/document/10844894)] [<a href="../assets/pdf/The_Study_of_Dexterous_Hand_Manipulation_A_Synergy-Based_Complexity_Index.pdf" target="_blank" rel="noopener noreferrer">PDF</a>]
 
