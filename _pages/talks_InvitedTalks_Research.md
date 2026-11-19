@@ -7,6 +7,17 @@ nav: false
 nav_order: 2
 ---
 
+<h3>Understanding and Improving Human Movement: From Latent Structure to Robotic Coaching</h3>
+How can we better understand human movement, and how can we use that understanding to design robots that help people learn new skills?
+
+In this seminar, presented as part of the Johns Hopkins Laboratory for Computational Sensing and Robotics (LCSR) Seminar Series, I discuss some of the research questions that have shaped my work and will guide the research direction of my future lab at Georgia Tech.
+
+Drawing on studies of dexterous manipulation, human perception, and robotic surgery, I explore how simple models can reveal the underlying structure of human motor control and learning. I also discuss how these insights can inform the development of robotic coaching systems for rehabilitation, surgical training, and other applications of human motor learning.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TK6IW3fzXNg?si=FvM9T8a0f98lIeJn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<hr> <!-- Add a horizontal rule to separate the posts -->
+
 <h3>How We See, How We Feel: Exploring Human Perception</h3>
 This talk was presented as part of the virtual seminar series for Georgia Tech’s Online Master of Science in Computer Science (OMSCS) program on September 18th, 2025.
 
